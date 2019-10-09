@@ -1,5 +1,5 @@
 {
-  "name": "heroku-signaling-server",
+  "name": "pollenium-begonia",
   "version": "0.0.0",
   "description": "",
   "main": "index.js",
@@ -13,11 +13,11 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pollenium/heroku-signaling-server/issues"
+    "url": "https://github.com/pollenium/begonia/issues"
   },
-  "homepage": "https://github.com/pollenium/heroku-signaling-server#readme",
+  "homepage": "https://github.com/pollenium/begonia#readme",
   "dependencies": {
     "forever": "^1.0.0",
-    "pollenium-client": "git+https://github.com/pollenium/client-typescript.git"
+    "pollenium-anemone": "0.0.0"
   }
 }
