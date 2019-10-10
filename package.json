@@ -18,7 +18,7 @@
   "homepage": "https://github.com/pollenium/begonia#readme",
   "dependencies": {
     "forever": "^1.0.0",
-    "pollenium-anemone": "0.0.0"
+    "pollenium-anemone": "^1.0.0"
   },
   "engine": {
     "node": "10.0.0"
